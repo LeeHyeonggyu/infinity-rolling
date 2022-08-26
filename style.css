@@ -26,7 +26,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 60px;
+    width: 120px;
     height: 100%;
     z-index: 1;
     background: linear-gradient(to left, #1b202c00 0%, #1b202cd2 51%, #1B202C 100%);
@@ -36,7 +36,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60px;
+    width: 120px;
     height: 100%;
     z-index: 1;
     background: linear-gradient(to right, #1b202c00 0%, #1b202cd2 51%, #1B202C 100%);
